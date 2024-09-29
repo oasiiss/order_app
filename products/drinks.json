@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Limonata",
+        "is_size": true,
+        "size": [
+            {
+                "name": "K\u00fc\u00e7\u00fck Boy",
+                "add_price": 0.0
+            },
+            {
+                "name": "Orta Boy",
+                "add_price": 15.0
+            },
+            {
+                "name": "B\u00fcy\u00fck Boy",
+                "add_price": 25.0
+            }
+        ],
+        "price": 20.0
+    },
+    {
+        "id": 2,
+        "name": "Gazoz",
+        "is_size": true,
+        "size": [
+            {
+                "name": "K\u00fc\u00e7\u00fck Boy",
+                "add_price": 0.0
+            },
+            {
+                "name": "Orta Boy",
+                "add_price": 15.0
+            },
+            {
+                "name": "B\u00fcy\u00fck Boy",
+                "add_price": 25.0
+            }
+        ],
+        "price": 30.0
+    },
+    {
+        "id": 3,
+        "name": "Coca cola",
+        "is_size": true,
+        "size": [
+            {
+                "name": "K\u00fc\u00e7\u00fck Boy",
+                "add_price": 0.0
+            },
+            {
+                "name": "Orta Boy",
+                "add_price": 15.0
+            },
+            {
+                "name": "B\u00fcy\u00fck Boy",
+                "add_price": 25.0
+            }
+        ],
+        "price": 40.0
+    },
+    {
+        "id": 4,
+        "name": "Ayran",
+        "is_size": true,
+        "size": [
+            {
+                "name": "K\u00fc\u00e7\u00fck Boy",
+                "add_price": 0.0
+            },
+            {
+                "name": "Orta Boy",
+                "add_price": 15.0
+            },
+            {
+                "name": "B\u00fcy\u00fck Boy",
+                "add_price": 25.0
+            }
+        ],
+        "price": 15.0
+    },
+    {
+        "id": 5,
+        "name": "Fanta",
+        "is_size": true,
+        "size": [
+            {
+                "name": "K\u00fc\u00e7\u00fck Boy",
+                "add_price": 0.0
+            },
+            {
+                "name": "Orta Boy",
+                "add_price": 15.0
+            },
+            {
+                "name": "B\u00fcy\u00fck Boy",
+                "add_price": 25.0
+            }
+        ],
+        "price": 35.0
+    }
+]

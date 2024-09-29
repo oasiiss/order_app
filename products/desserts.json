@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Cheesecake",
+        "is_variety": true,
+        "variety": [
+            {
+                "name": "\u00c7ikolatal\u0131",
+                "add_price": 0.0
+            },
+            {
+                "name": "Frambuazl\u0131",
+                "add_price": 5.0
+            },
+            {
+                "name": "Limonlu",
+                "add_price": 10.0
+            }
+        ],
+        "price": 70.0
+    },
+    {
+        "id": 2,
+        "name": "Tiramisu",
+        "is_variety": false,
+        "variety": [],
+        "price": 60.0
+    },
+    {
+        "id": 3,
+        "name": "Profiterol",
+        "is_variety": false,
+        "variety": [],
+        "price": 80.0
+    },
+    {
+        "id": 4,
+        "name": "Deneme tatl\u0131",
+        "is_variety": true,
+        "variety": [
+            {
+                "name": "varyasyon 1",
+                "add_price": 45
+            },
+            {
+                "name": "varyasyon 2",
+                "add_price": 5
+            }
+        ],
+        "price": 100
+    }
+]

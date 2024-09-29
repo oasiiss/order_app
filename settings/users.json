@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "email": "admin@gmail.com",
+        "password": "admin123",
+        "full_name": "",
+        "is_admin": false
+    },
+    {
+        "id": 2,
+        "email": "oasiiss34@gmail.com",
+        "password": "Osman1907",
+        "full_name": "Osman efe kurt",
+        "is_admin": false
+    },
+    {
+        "id": 3,
+        "email": "efe@gmail.com",
+        "password": "123",
+        "full_name": "Efe",
+        "is_admin": false
+    }
+]

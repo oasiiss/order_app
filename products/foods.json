@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Makarna",
+        "is_variety": true,
+        "variety": [
+            {
+                "name": "Spagetti",
+                "add_price": 15.0
+            },
+            {
+                "name": "Kelebek",
+                "add_price": 20.0
+            },
+            {
+                "name": "Boncuk",
+                "add_price": 0.0
+            }
+        ],
+        "price": 40.0
+    },
+    {
+        "id": 2,
+        "name": "Pizza",
+        "is_variety": true,
+        "variety": [
+            {
+                "name": "Margarita",
+                "add_price": 0.0
+            },
+            {
+                "name": "Etli",
+                "add_price": 30.0
+            },
+            {
+                "name": "Kar\u0131\u015f\u0131k",
+                "add_price": 45.0
+            }
+        ],
+        "price": 120.0
+    },
+    {
+        "id": 3,
+        "name": "K\u00f6ri Tavuk",
+        "is_variety": false,
+        "variety": [],
+        "price": 65.0
+    },
+    {
+        "id": 4,
+        "name": "\u00e7orba",
+        "is_variety": true,
+        "variety": [
+            {
+                "name": "Mercimek",
+                "add_price": 0.0
+            },
+            {
+                "name": "Yayla",
+                "add_price": 5.0
+            },
+            {
+                "name": "Tarhana",
+                "add_price": 5.0
+            }
+        ],
+        "price": 30.0
+    },
+    {
+        "id": 5,
+        "name": "F\u0131r\u0131nda Tavuk",
+        "is_variety": false,
+        "variety": [],
+        "price": 82.0
+    },
+    {
+        "id": 6,
+        "name": "Deneme yemek",
+        "is_variety": true,
+        "variety": [
+            {
+                "name": "varyasyon 1",
+                "add_price": 20
+            },
+            {
+                "name": "varyasyon 2",
+                "add_price": 30
+            }
+        ],
+        "price": 100
+    }
+]
